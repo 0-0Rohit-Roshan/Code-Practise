@@ -3,7 +3,7 @@ import threading
 
 target = 'Provide the ip adress on which the service is operating'
 fake_ip = 'Provide a fake ip address you want to use (doesnt conceal you)'
-port = 'the port no of your pc you want to attack'
+port = 'the port no. of your pc you want to attack'
 
 attack_num = 0 # you know you shouldnot init this in the while loop /(make required changes)
 
