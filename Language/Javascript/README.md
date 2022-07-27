@@ -58,13 +58,13 @@
 - “Else if” statements: this specifies a new test if the first condition is false.
 
 ### Arrays
--```Javascript
+```Javascript
  var breakfast = ["coffee","croissant"];
  breakfast;
  ```
 ["cofee","croissant"]
 
--```Javascript
+```Javascript
  var store = [100,"paint",[200,"brush"],false];
  store;
  ```
